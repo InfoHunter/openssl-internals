@@ -30,12 +30,13 @@
 * 7\. Rand
 * 8\. SHA/HMAC
 * 9\. DSO/Engine
-* 10\. SSL/TLS
-	* 10.1. SSL/TLS Record
-	* 10.2. SSL/TLS State Machine
-	* 10.3. SSL lib
-	* 10.4. SSL Session
-	* 10.5. SSL Certificates Handling
+* 10\. ASYNC
+* 11\. SSL/TLS
+	* 11.1. SSL/TLS Record
+	* 11.2. SSL/TLS State Machine
+	* 11.3. SSL lib
+	* 11.4. SSL Session
+	* 11.5. SSL Certificates Handling
 * 11\. Test Framework
 * 12\. Debug
 * 13\. Error Handling
